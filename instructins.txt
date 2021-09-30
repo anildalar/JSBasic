@@ -1,0 +1,81 @@
+FrontEnd Technology
+
+1. HTML = HyperTExt Markup Langauge (Website Structure)
+2. CSS  = Cascading Style Shee      (Website Design/Presentation)
+3. JS   = Javascript                (Website Behaviour)
+
+Javascript is a client side scripting language
+
+Programming Langauge vs Scripting Langauge
+
+Progamming Language
+C,C++,Python,Java,.Net = Programming Languge
+
+SouceCode -> Complie  -> Executable   .exe .dmg 
+Compiled by Compiler
+
+
+Scripting Language
+Javascript
+
+SouceCode -> Interprete -> Execute on Browser
+
+Interprete by Browser
+
+JavaScript is the world's most popular programming language.
+SouceCode -> Complie  -> Executable 
+NodeJs
+
+If you know the javascript
+
+You can build
+1. Website
+2. Desktop Software for Window/Apple/Linux   Electron.JS
+3. Mobile Apps  Android/IOS
+4. OS Kernel Libraries
+5. OS MODULES
+6. Game Development
+
+
+
+Javascript is one of the top programming Laguage. 2021
+
+Big MNC Multi Natinal Companies are hiring More JS Developers
+
+
+<starttag>Content</endtag>
+
+
+( = parenthesis start
+
+) = parenthesis end/close
+
+instructions are always terminated by semi colon ;
+instrcution1;
+instruction2;
+instruction3;
+
+Arithmetic Operation
+1. Addition
+2. Subtration
+3. Multiplication
+4. Division
+
+Javascript Operators
+
++ = Addition Operator
+* = Multiplication Operator
+
+
+What are variables?
+
+Variable are like bucket
+
+Bucket is used to hold items
+similary Variable is used to hold values i.e 10,30,"ANIL","Nandan"
+
+Number and String
+
+var x = 10;
+var y = 20;
+
